@@ -1,0 +1,6 @@
+Image size: 512x512
+Cylinder height: 9.728
+Cylinder radius: 1.5482592863979578
+Total number of vertices: 262144
+Total number of triangles: 523264
+Total file size: 71289738 bytes
